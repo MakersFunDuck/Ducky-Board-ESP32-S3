@@ -38,6 +38,6 @@ This project is a custom-designed breakout board for the ESP32-S3 chip, created 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 
